@@ -1,2 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap');
---background: #255178;
+:root {
+    --background: #255178;
+    --accent: #808080;
+}
